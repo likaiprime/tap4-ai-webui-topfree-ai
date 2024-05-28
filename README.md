@@ -1,5 +1,5 @@
 # Top Free AIWeb UI
-Top Free AIWeb UI is the open source AI tools directory build by [Top Free AITools Directory](https://tap4.ai). The project aims to help everyone build their own AI Tools Directory easily. You can fork the project and deploy to vercel by one click and update your own ai tools by the dataList in the project.
+Top Free AIWeb UI is the open source AI tools directory build by [Top Free AI Tools Directory](https://tap4.ai). The project aims to help everyone build their own AI Tools Directory easily. You can fork the project and deploy to vercel by one click and update your own ai tools by the dataList in the project.
 
 English | [简体中文](https://github.com/6677-ai/tap4-ai-webui/blob/main/README.zh-CN.md)
 
