@@ -13,7 +13,7 @@ function NavDrawerItem({ isActive, name }: { isActive: boolean; name: string }) 
   return (
     <li
       className={cn(
-        'flex h-[28px] w-full items-center justify-between rounded-[4px] border border-transparent bg-[#2C2D36] pl-[14px] pr-2',
+        'flex h-[28px] w-full items-center justify-between rounded-[4px] border border-transparent bg-[#FFFFFF] pl-[14px] pr-2',
         isActive && 'border-white bg-[#15141A]',
       )}
     >

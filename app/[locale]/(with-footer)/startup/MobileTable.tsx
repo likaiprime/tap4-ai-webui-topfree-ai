@@ -17,7 +17,7 @@ export default function MobileTable() {
       </div>
       <div className='flex flex-col gap-1'>
         {STARTUP_LIST.map((item) => (
-          <div key={item.DA} className='flex min-h-[99px] items-center justify-between bg-[#2C2D36] p-3'>
+          <div key={item.DA} className='flex min-h-[99px] items-center justify-between bg-[#FFFFFF] p-3'>
             <div className='flex flex-1 flex-col'>
               <div className='mb-[9px] text-sm'>
                 (DA{item.DA}) {item.Website}
