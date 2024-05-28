@@ -33,6 +33,14 @@
     --ring: 222.2 84% 4.9%;
 
     --radius: 0.5rem;
+
+
+    --site-title-font-family: 'Josefin Sans', sans-serif;
+    --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+
+    --gradient-background: linear-gradient(90deg, #89216b 0%, #da4453 100%);
   }
 
   .dark {
@@ -63,6 +71,7 @@
     --border: 217.2 32.6% 17.5%;
     --input: 217.2 32.6% 17.5%;
     --ring: 212.7 26.8% 83.9%;
+
   }
 }
 
@@ -91,4 +100,17 @@
 
 .tr-rounded {
   clip-path: xywh(0 0 100% 100% round 4px);
+}
+
+.gradient-background {
+  @apply text-white;
+  background: var(--gradient-background);
+}
+
+body {
+  font-family: var(--bs-font-sans-serif);
+}
+
+.site-title {
+  font-family: var(--site-title-font-family);
 }

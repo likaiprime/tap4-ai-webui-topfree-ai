@@ -23,7 +23,7 @@ export default function RootLayout({
 
   return (
     <html lang={locale} suppressHydrationWarning>
-      <body className='bg-tap4-black relative mx-auto flex min-h-screen flex-col text-black'>
+      <body className='relative mx-auto flex min-h-screen flex-col text-black'>
         <NextIntlClientProvider locale={locale} messages={messages}>
           <Toaster
             position='top-center'
