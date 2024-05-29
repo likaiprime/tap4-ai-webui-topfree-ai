@@ -3,14 +3,14 @@ import { useTranslations } from 'next-intl';
 
 function TitleItem({ children }: { children: React.ReactNode }) {
   return (
-    <h2 className='flex items-center gap-1 text-2xl'>
+    <h2 className='flex items-center gap-1 text-2xl font-bold'>
       <CircleHelp /> {children}
     </h2>
   );
 }
 
 function ContentItem({ children }: { children: React.ReactNode }) {
-  return <h3 className='mt-3'>{children}</h3>;
+  return <h3 className='mt-3 font-light'>{children}</h3>;
 }
 
 export default function Faq() {
@@ -18,7 +18,7 @@ export default function Faq() {
   return (
     <div className='mx-auto max-w-pc space-y-8 pb-5'>
       <h1 className='text-center text-2xl font-bold lg:pb-3 lg:text-3xl'>{t('title')}</h1>
-      <div className='grid grid-cols-1 gap-5 px-3 lg:grid-cols-2 lg:gap-16 lg:px-0'>
+      <div className='grid grid-cols-1 gap-5 px-3 lg:grid-cols-1 lg:gap-16 lg:px-0'>
         <div>
           <TitleItem>{t('1.question')}</TitleItem>
           <ContentItem>{t('1.answer')}</ContentItem>
