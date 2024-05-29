@@ -14,7 +14,7 @@ const config = {
     },
     extend: {
       colors: {
-        'Top Free-black': '#0F0E14',
+        'TopFree-black': '#0F0E14',
         'dark-bg': '#1E1B24',
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',

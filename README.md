@@ -1,5 +1,5 @@
-# Top Free AIWeb UI
-Top Free AIWeb UI is the open source AI tools directory build by [Top Free AI Tools Directory](https://tap4.ai). The project aims to help everyone build their own AI Tools Directory easily. You can fork the project and deploy to vercel by one click and update your own ai tools by the dataList in the project.
+# TopFree AIWeb UI
+TopFree AIWeb UI is the open source AI tools directory build by [TopFree AI Tools Directory](https://tap4.ai). The project aims to help everyone build their own AI Tools Directory easily. You can fork the project and deploy to vercel by one click and update your own ai tools by the dataList in the project.
 
 English | [简体中文](https://github.com/6677-ai/tap4-ai-webui/blob/main/README.zh-CN.md)
 
@@ -12,7 +12,7 @@ if this project is helpful to you, buy me a coffee.
 <a href="https://www.buymeacoffee.com/tap4ai0o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 If you are interested with the project, you can scan the qr code and enter the wechat group.
-![Top Free-ai-wx-group](./public/images/640.png)
+![TopFree-ai-wx-group](./public/images/640.png)
 
 
 ## Features
@@ -23,13 +23,13 @@ If you are interested with the project, you can scan the qr code and enter the w
 - NEXT 14 with app route (react server component)
 - Supabase serverless database
 
-![tai4-ai](./public/images/Top Free-ai.png)
+![tai4-ai](./public/images/TopFree-ai.png)
 
 
 ## Quick Start
 
 ### Deploy on Vercel **(Don't forget to setup env)**
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F6677-ai%2FTop Free-ai-webui.git&env=NEXT_PUBLIC_SITE_URL,GOOGLE_TRACKING_ID,GOOGLE_ADSENSE_URL,CONTACT_US_EMAIL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&project-name=Top Free-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F6677-ai%2FTopFree-ai-webui.git&env=NEXT_PUBLIC_SITE_URL,GOOGLE_TRACKING_ID,GOOGLE_ADSENSE_URL,CONTACT_US_EMAIL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&project-name=TopFree-ai)
 
 ## Runs on local
 ### install
@@ -40,7 +40,7 @@ If you are interested with the project, you can scan the qr code and enter the w
 ### setup
 #### (1) clone this project
 ```sh
-git clone https://github.com/6677-ai/Top Free-ai-webui.git
+git clone https://github.com/6677-ai/TopFree-ai-webui.git
 ```
 
 #### (2) signup a account on supabase then create a project
@@ -84,15 +84,15 @@ lib/data.ts -> detailList
 
 ## Wanna submit your website on topfree.ai?
 ### Wanna add you website to our `/startup` page?
-- open an issue here: [Top Free-AI-Directory](https://github.com/6677-ai/Top Free-AI-Directory/issues)
+- open an issue here: [TopFree-AI-Directory](https://github.com/6677-ai/TopFree-AI-Directory/issues)
 - email us: contact@topfree.ai
 
 ## Links to our products
-### Top Free-AI-Directory
-The Collection for the AI tools all over the world. | Collect free ChatGPT mirrors, alternatives,prompt, other AI tools, etc. For more, please visit: [Top Free AI](https://topfree.ai)
+### TopFree-AI-Directory
+The Collection for the AI tools all over the world. | Collect free ChatGPT mirrors, alternatives,prompt, other AI tools, etc. For more, please visit: [TopFree AI](https://topfree.ai)
 
 ### How to get your first users for startup at the website list
-Here is the website list for submit your product to get users. Please visit [StartUp Your Product List](https://github.com/6677-ai/Top Free-AI-Directory/blob/main/Startup-Your-Product-List.md)
+Here is the website list for submit your product to get users. Please visit [StartUp Your Product List](https://github.com/6677-ai/TopFree-AI-Directory/blob/main/Startup-Your-Product-List.md)
 
 ### GPT-4o in OpenAI
 The amazing new feature released in 2024.05.14. GPT-4o is coming, let's chat with her. Please [GPT-4o](https://openai.com/index/hello-gpt-4o/)
@@ -105,7 +105,7 @@ Anime Girl Studio is the ai anime girl generator and chat product. You can gener
 
 ## Other open source
 ### Website content crawler code
-visit: [6677-ai/Top Free-ai-scraper](https://github.com/6677-ai/Top Free-ai-scraper)
+visit: [6677-ai/TopFree-ai-scraper](https://github.com/6677-ai/TopFree-ai-scraper)
 
 ## LICENSE
 MIT
