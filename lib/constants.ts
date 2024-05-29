@@ -416,7 +416,7 @@ export const STARTUP_LIST = [
   {
     DA: 11,
     Website: 'AI Toolsmall.com',
-    URL: 'https://AI Toolsmall.com/',
+    URL: 'https://AIToolsmall.com/',
     Price: '$0.99',
     Tag: 'AI, Productivity',
   },

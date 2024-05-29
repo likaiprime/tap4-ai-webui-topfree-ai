@@ -43,7 +43,7 @@ export default async function Page({ params: { websiteName } }: { params: { webs
             href={data.url}
             target='_blank'
             rel='noreferrer'
-            className='flex-center mt-5 min-h-5 w-full gap-1 rounded-[8px] bg-white p-[10px] text-sm capitalize text-black hover:opacity-80 lg:mt-auto lg:w-[288px]'
+            className='flex-center mt-5 min-h-5 w-full gap-1 rounded-[2px] bg-white p-[10px] text-sm capitalize text-black hover:opacity-80 lg:mt-auto lg:w-[288px]'
           >
             {t('visitWebsite')} <CircleArrowRight className='size-[14px]' />
           </a>
