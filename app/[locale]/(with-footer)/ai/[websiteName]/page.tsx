@@ -57,9 +57,6 @@ export default async function Page({ params: { websiteName } }: { params: { webs
           <BaseImage
             title={data.title}
             alt={data.title}
-            // width={466}
-            // height={243}
-            fill
             src={data.thumbnailUrl || ''}
             className='absolute mt-3 aspect-[466/234] w-full rounded-[16px] border border-[#424242] bg-[#424242] bg-cover lg:mt-0'
           />
